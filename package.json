@@ -1,0 +1,15 @@
+{
+  "name": "hello-typescript",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/coelhodiana/hello-typescript.git",
+  "author": "DESKTOP-L3QPPTA\\Diana <coelhodiana04@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/express": "^4.17.9",
+    "typescript": "^4.1.2"
+  },
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
